@@ -1,4 +1,4 @@
-package samplegit ;
+package sample;
 
 
         import javax.swing.*;
